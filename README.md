@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Alesf luiz
-- 👀 I’m interested in learn and become a master in BACK-END AND FRONT-END.
-- 🌱 I’m currently learning C# in .Net.
-- 💞️ I’m looking to collaborate on problem solving and development/improvement of new technologies.
-- 📫 How to reach me: Linkedin https://www.linkedin.com/in/alesf-luiz-480b76112/ or gmail alesfluiz@gmail.com.
-- 🌎 Language portuguese.
-<!---
-alesfluiz/alesfluiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Oi, eu sou Alesf luiz
+👀Tenho interesse em aprender e me tornar um mestre em BACK-END E FRONT-END.
+🌱Atualmente estou aprendendo C# em .Net.
+💞️ Procuro colaborar na resolução de problemas e desenvolvimento/melhoria de novas tecnologias.
+📫Como chegar até mim: Linkedin https://www.linkedin.com/in/alesf-luiz-480b76112/ ou gmail alesfluiz@gmail.com .
+🌎 Língua portuguesa.
