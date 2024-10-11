@@ -1,5 +1,6 @@
 #BEM VINDO!
 * 👋 Oi, eu sou Alesf luiz
+* Um curioso;
 * 👀Tenho muito interesse em BACK-END, mas estou aberto a desafios.
 * 🌱Atualmente desenvolvendo meus conhecimentos C# em .Net.
 * 💞️ Procuro colaborar na resolução de problemas e desenvolvimento/melhoria de novas tecnologias.
